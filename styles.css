@@ -1,0 +1,65 @@
+img
+{
+    width:300px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+body
+{
+    background-color: lightgreen;
+    text-align: center;
+  
+ 
+    
+}
+
+h1 
+{
+	color:black;
+    font-family: 'PT Serif', serif;
+}
+
+.color
+{
+    color:purple;
+   
+}
+
+.grade
+{
+	color:blue;
+    font-family: 'PT Serif', serif;
+}
+
+
+ol ul {
+   display: inline-block;
+    text-align:left;
+    font-family: 'PT Serif', serif;
+    
+}
+
+.leftAlign {
+	text-align: left;
+	color:red;
+    font-family: 'PT Serif', serif;
+}
+
+p {
+    line-height: 5px;
+    font-family: 'Ceviche One', cursive;
+}
+
+.Free{
+color: #ffbf80;
+   font-family: 'Fruktur', cursive;
+}
+
+.five{
+color: #ff9999;
+ font-family: 'Dancing Script', cursive;
+
+
+}
